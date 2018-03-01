@@ -11,30 +11,29 @@
     "repository": "http://github.com/heroku/go-getting-started",
     "env": {
         "CONFIG_JSON1": {
-            "description": "CONFIG_JSON1",
+            "description": "",
             "value": "{\"log\":{\"access\":\"\",\"error\":\"\",\"loglevel\":\"none\"},\"inbound\":{\"protocol\":\"vmess\",\"port\":"
         },
         "CONFIG_JSON2": {
-            "description": "CONFIG_JSON2",
+            "description": "",
             "value": ",\"settings\":{\"clients\":[{\"id\":\""
         },
         "UUID": {
-            "description": "UUID",
+            "description": "",
             "value": "8fb2b416-d48a-11e7-9296-cec278b6b50a"
         },
         "CONFIG_JSON3": {
-            "description": "CONFIG_JSON3",
+            "description": "",
             "value": "\",\"alterId\":"
             
         },
         ALTERID: {
-            "description": "ALTERID",
+            "description": "",
             "value": "64"
         },
         "CONFIG_JSON4": {
-            "description": "CONFIG_JSON4",
+            "description": "",
             "value": "}]},\"streamSettings\":{\"network\":\"ws\"}},\"inboundDetour\":[],\"outbound\":{\"protocol\":\"freedom\",\"settings\":{}}}"
-        },
-        
+        } 
     }
 }
