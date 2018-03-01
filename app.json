@@ -1,0 +1,40 @@
+{
+    "name": "Start on Heroku: Go",
+    "description": "Go Getting Started Example App",
+    "keywords": [
+        "getting-started",
+        "go",
+        "sample",
+        "example"
+    ],
+    "website": "http://github.com/heroku/go-getting-started",
+    "repository": "http://github.com/heroku/go-getting-started",
+    "env": {
+        "CONFIG_JSON1": {
+            "description": "CONFIG_JSON1",
+            "value": "{\"log\":{\"access\":\"\",\"error\":\"\",\"loglevel\":\"none\"},\"inbound\":{\"protocol\":\"vmess\",\"port\":"
+        },
+        "CONFIG_JSON2": {
+            "description": "CONFIG_JSON2",
+            "value": ",\"settings\":{\"clients\":[{\"id\":\""
+        },
+        "UUID": {
+            "description": "UUID",
+            "value": "8fb2b416-d48a-11e7-9296-cec278b6b50a"
+        },
+        "CONFIG_JSON3": {
+            "description": "CONFIG_JSON3",
+            "value": "\",\"alterId\":"
+            
+        },
+        ALTERID: {
+            "description": "ALTERID",
+            "value": "64"
+        },
+        "CONFIG_JSON4": {
+            "description": "CONFIG_JSON4",
+            "value": "}]},\"streamSettings\":{\"network\":\"ws\"}},\"inboundDetour\":[],\"outbound\":{\"protocol\":\"freedom\",\"settings\":{}}}"
+        },
+        
+    }
+}
