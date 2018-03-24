@@ -32,7 +32,7 @@
         },
         "CONFIG_JSON4": {
             "description": "",
-            "value": "}]},\"streamSettings\":{\"network\":\"ws\"}},\"inboundDetour\":[],\"outbound\":{\"protocol\":\"freedom\",\"settings\":{}}}"
+            "value": "}]},\"streamSettings\":{\"network\":\"ws\"}},\"inboundDetour\":[],\"outbound\":{\"tag\":\"transit\",\"protocol\":\"freedom\",\"settings\":{}}}"
         } 
     }
 }
