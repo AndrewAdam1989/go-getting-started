@@ -33,6 +33,10 @@
         "CONFIG_JSON4": {
             "description": "",
             "value": "}]},\"streamSettings\":{\"network\":\"ws\"}},\"inboundDetour\":[],\"outbound\":{\"protocol\":\"freedom\",\"settings\":{}}}"
-        } 
+        },
+        "VER": {
+            "description": "",
+            "value": "3.21"
+        }
     }
 }
